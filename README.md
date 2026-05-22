@@ -4,7 +4,7 @@ API REST simples desenvolvida com Node.js e Express para praticar conceitos de b
 
 ## Objetivo
 
-Este projeto foi criado como parte da preparação para uma vaga de Desenvolvedor Júnior Fullstack, com foco em desenvolvimento de APIs REST e organização de projeto backend.
+Este projeto foi criado como parte da preparação para uma vaga de Desenvolvedor Júnior 
 
 ## Tecnologias utilizadas
 
@@ -165,17 +165,3 @@ src/
     tarefasService.js
   server.js
 ```
-
-## Aprendizados
-
-Neste projeto pratiquei:
-
-- Criação de servidor com Express
-- Rotas REST
-- Métodos HTTP
-- Uso de JSON
-- Status HTTP
-- Organização em camadas
-- Separação entre routes, controllers e services
-- Testes manuais com Thunder Client
-- Correção de erros de rota, importação e variáveis em JavaScript
